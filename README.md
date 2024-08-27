@@ -1,3 +1,3 @@
 # django-rest-framework-simplejwt-auth
 
-## Still adding Part 2
+This project aim to demostrate how to implement authentication in Django REST Framework using SimpleJWT
